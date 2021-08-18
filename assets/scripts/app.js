@@ -12,10 +12,10 @@ const Portfolio = function() {
 				weight: 14
 			}, {
 				text: "JQuery",
-				weight: 6
+				weight: 7
 			}, {
 				text: "C & C++",
-				weight: 7
+				weight: 8
 			}, {
 				text: "Python",
 				weight: 10
